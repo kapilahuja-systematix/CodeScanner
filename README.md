@@ -2,21 +2,21 @@
 
 Scan the following codes with just few lines of code
 
-⋅⋅* QRCode
-⋅⋅* Interleaved2of5Code
-⋅⋅* ITF14Code
-⋅⋅* DataMatrixCode
-⋅⋅* UPCECode
-⋅⋅* Code39Code
-⋅⋅* Code39Mod43Code
-⋅⋅* Code93Code
-⋅⋅* Code128Code
-⋅⋅* EAN8Code
-⋅⋅* EAN13Code
-⋅⋅* AztecCode
-⋅⋅* PDF417Code
+* **QRCode**
+* **Interleaved2of5Code**
+* **ITF14Code**
+* **DataMatrixCode**
+* **UPCECode**
+* **Code39Code**
+* **Code39Mod43Code**
+* **Code93Code**
+* **Code128Code**
+* **EAN8Code**
+* **EAN13Code**
+* **AztecCode**
+* **PDF417Code**
 
-![Default](https://raw.githubusercontent.com/kapilahuja/touchid/master/TouchID/TouchID/IMG_1213.PNG)
+![Default](https://github.com/kapilahuja-systematix/CodeScanner/blob/master/QRScanner/QrScan.jpg)
 
 ## Usage
 
